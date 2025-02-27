@@ -1,0 +1,1001 @@
+id,name,product_name,price,order_date,order_status
+1,Alex,Iphone 16 Pro,2000047.00,2023-03-01,paid
+2,Budi,Samsung Galaxy S24,2000094.00,2023-06-15,pending
+3,Citra,Xiaomi Mi 12,2000141.00,2023-09-10,failed
+4,Dewi,Oppo Find X5,2000188.00,2023-12-05,paid
+5,Eka,Vivo X90,2000235.00,2024-03-01,pending
+6,Fajar,Iphone 16 Pro,2000282.00,2024-06-15,failed
+7,Gina,Samsung Galaxy S24,2000329.00,2024-09-10,paid
+8,Hendra,Xiaomi Mi 12,2000376.00,2024-12-05,pending
+9,Ika,Oppo Find X5,2000423.00,2025-01-15,failed
+10,Joko,Vivo X90,2000470.00,2025-02-15,paid
+11,Kiki,Iphone 16 Pro,2000517.00,2023-03-01,pending
+12,Lia,Samsung Galaxy S24,2000564.00,2023-06-15,failed
+13,Made,Xiaomi Mi 12,2000611.00,2023-09-10,paid
+14,Nina,Oppo Find X5,2000658.00,2023-12-05,pending
+15,Oni,Vivo X90,2000705.00,2024-03-01,failed
+16,Putra,Iphone 16 Pro,2000752.00,2024-06-15,paid
+17,Rini,Samsung Galaxy S24,2000799.00,2024-09-10,pending
+18,Sari,Xiaomi Mi 12,2000846.00,2024-12-05,failed
+19,Teguh,Oppo Find X5,2000893.00,2025-01-15,paid
+20,Wulan,Vivo X90,2000940.00,2025-02-15,pending
+21,Alex,Iphone 16 Pro,2000987.00,2023-03-01,failed
+22,Budi,Samsung Galaxy S24,2001034.00,2023-06-15,paid
+23,Citra,Xiaomi Mi 12,2001081.00,2023-09-10,pending
+24,Dewi,Oppo Find X5,2001128.00,2023-12-05,failed
+25,Eka,Vivo X90,2001175.00,2024-03-01,paid
+26,Fajar,Iphone 16 Pro,2001222.00,2024-06-15,pending
+27,Gina,Samsung Galaxy S24,2001269.00,2024-09-10,failed
+28,Hendra,Xiaomi Mi 12,2001316.00,2024-12-05,paid
+29,Ika,Oppo Find X5,2001363.00,2025-01-15,pending
+30,Joko,Vivo X90,2001410.00,2025-02-15,failed
+31,Kiki,Iphone 16 Pro,2001457.00,2023-03-01,paid
+32,Lia,Samsung Galaxy S24,2001504.00,2023-06-15,pending
+33,Made,Xiaomi Mi 12,2001551.00,2023-09-10,failed
+34,Nina,Oppo Find X5,2001598.00,2023-12-05,paid
+35,Oni,Vivo X90,2001645.00,2024-03-01,pending
+36,Putra,Iphone 16 Pro,2001692.00,2024-06-15,failed
+37,Rini,Samsung Galaxy S24,2001739.00,2024-09-10,paid
+38,Sari,Xiaomi Mi 12,2001786.00,2024-12-05,pending
+39,Teguh,Oppo Find X5,2001833.00,2025-01-15,failed
+40,Wulan,Vivo X90,2001880.00,2025-02-15,paid
+41,Alex,Iphone 16 Pro,2001927.00,2023-03-01,pending
+42,Budi,Samsung Galaxy S24,2001974.00,2023-06-15,failed
+43,Citra,Xiaomi Mi 12,2002021.00,2023-09-10,paid
+44,Dewi,Oppo Find X5,2002068.00,2023-12-05,pending
+45,Eka,Vivo X90,2002115.00,2024-03-01,failed
+46,Fajar,Iphone 16 Pro,2002162.00,2024-06-15,paid
+47,Gina,Samsung Galaxy S24,2002209.00,2024-09-10,pending
+48,Hendra,Xiaomi Mi 12,2002256.00,2024-12-05,failed
+49,Ika,Oppo Find X5,2002303.00,2025-01-15,paid
+50,Joko,Vivo X90,2002350.00,2025-02-15,pending
+51,Kiki,Iphone 16 Pro,2002397.00,2023-03-01,failed
+52,Lia,Samsung Galaxy S24,2002444.00,2023-06-15,paid
+53,Made,Xiaomi Mi 12,2002491.00,2023-09-10,pending
+54,Nina,Oppo Find X5,2002538.00,2023-12-05,failed
+55,Oni,Vivo X90,2002585.00,2024-03-01,paid
+56,Putra,Iphone 16 Pro,2002632.00,2024-06-15,pending
+57,Rini,Samsung Galaxy S24,2002679.00,2024-09-10,failed
+58,Sari,Xiaomi Mi 12,2002726.00,2024-12-05,paid
+59,Teguh,Oppo Find X5,2002773.00,2025-01-15,pending
+60,Wulan,Vivo X90,2002820.00,2025-02-15,failed
+61,Alex,Iphone 16 Pro,2002867.00,2023-03-01,paid
+62,Budi,Samsung Galaxy S24,2002914.00,2023-06-15,pending
+63,Citra,Xiaomi Mi 12,2002961.00,2023-09-10,failed
+64,Dewi,Oppo Find X5,2003008.00,2023-12-05,paid
+65,Eka,Vivo X90,2003055.00,2024-03-01,pending
+66,Fajar,Iphone 16 Pro,2003102.00,2024-06-15,failed
+67,Gina,Samsung Galaxy S24,2003149.00,2024-09-10,paid
+68,Hendra,Xiaomi Mi 12,2003196.00,2024-12-05,pending
+69,Ika,Oppo Find X5,2003243.00,2025-01-15,failed
+70,Joko,Vivo X90,2003290.00,2025-02-15,paid
+71,Kiki,Iphone 16 Pro,2003337.00,2023-03-01,pending
+72,Lia,Samsung Galaxy S24,2003384.00,2023-06-15,failed
+73,Made,Xiaomi Mi 12,2003431.00,2023-09-10,paid
+74,Nina,Oppo Find X5,2003478.00,2023-12-05,pending
+75,Oni,Vivo X90,2003525.00,2024-03-01,failed
+76,Putra,Iphone 16 Pro,2003572.00,2024-06-15,paid
+77,Rini,Samsung Galaxy S24,2003619.00,2024-09-10,pending
+78,Sari,Xiaomi Mi 12,2003666.00,2024-12-05,failed
+79,Teguh,Oppo Find X5,2003713.00,2025-01-15,paid
+80,Wulan,Vivo X90,2003760.00,2025-02-15,pending
+81,Alex,Iphone 16 Pro,2003807.00,2023-03-01,failed
+82,Budi,Samsung Galaxy S24,2003854.00,2023-06-15,paid
+83,Citra,Xiaomi Mi 12,2003901.00,2023-09-10,pending
+84,Dewi,Oppo Find X5,2003948.00,2023-12-05,failed
+85,Eka,Vivo X90,2003995.00,2024-03-01,paid
+86,Fajar,Iphone 16 Pro,2004042.00,2024-06-15,pending
+87,Gina,Samsung Galaxy S24,2004089.00,2024-09-10,failed
+88,Hendra,Xiaomi Mi 12,2004136.00,2024-12-05,paid
+89,Ika,Oppo Find X5,2004183.00,2025-01-15,pending
+90,Joko,Vivo X90,2004230.00,2025-02-15,failed
+91,Kiki,Iphone 16 Pro,2004277.00,2023-03-01,paid
+92,Lia,Samsung Galaxy S24,2004324.00,2023-06-15,pending
+93,Made,Xiaomi Mi 12,2004371.00,2023-09-10,failed
+94,Nina,Oppo Find X5,2004418.00,2023-12-05,paid
+95,Oni,Vivo X90,2004465.00,2024-03-01,pending
+96,Putra,Iphone 16 Pro,2004512.00,2024-06-15,failed
+97,Rini,Samsung Galaxy S24,2004559.00,2024-09-10,paid
+98,Sari,Xiaomi Mi 12,2004606.00,2024-12-05,pending
+99,Teguh,Oppo Find X5,2004653.00,2025-01-15,failed
+100,Wulan,Vivo X90,2004700.00,2025-02-15,paid
+101,Alex,Iphone 16 Pro,2004747.00,2023-03-01,pending
+102,Budi,Samsung Galaxy S24,2004794.00,2023-06-15,failed
+103,Citra,Xiaomi Mi 12,2004841.00,2023-09-10,paid
+104,Dewi,Oppo Find X5,2004888.00,2023-12-05,pending
+105,Eka,Vivo X90,2004935.00,2024-03-01,failed
+106,Fajar,Iphone 16 Pro,2004982.00,2024-06-15,paid
+107,Gina,Samsung Galaxy S24,2005029.00,2024-09-10,pending
+108,Hendra,Xiaomi Mi 12,2005076.00,2024-12-05,failed
+109,Ika,Oppo Find X5,2005123.00,2025-01-15,paid
+110,Joko,Vivo X90,2005170.00,2025-02-15,pending
+111,Kiki,Iphone 16 Pro,2005217.00,2023-03-01,failed
+112,Lia,Samsung Galaxy S24,2005264.00,2023-06-15,paid
+113,Made,Xiaomi Mi 12,2005311.00,2023-09-10,pending
+114,Nina,Oppo Find X5,2005358.00,2023-12-05,failed
+115,Oni,Vivo X90,2005405.00,2024-03-01,paid
+116,Putra,Iphone 16 Pro,2005452.00,2024-06-15,pending
+117,Rini,Samsung Galaxy S24,2005499.00,2024-09-10,failed
+118,Sari,Xiaomi Mi 12,2005546.00,2024-12-05,paid
+119,Teguh,Oppo Find X5,2005593.00,2025-01-15,pending
+120,Wulan,Vivo X90,2005640.00,2025-02-15,failed
+121,Alex,Iphone 16 Pro,2005687.00,2023-03-01,paid
+122,Budi,Samsung Galaxy S24,2005734.00,2023-06-15,pending
+123,Citra,Xiaomi Mi 12,2005781.00,2023-09-10,failed
+124,Dewi,Oppo Find X5,2005828.00,2023-12-05,paid
+125,Eka,Vivo X90,2005875.00,2024-03-01,pending
+126,Fajar,Iphone 16 Pro,2005922.00,2024-06-15,failed
+127,Gina,Samsung Galaxy S24,2005969.00,2024-09-10,paid
+128,Hendra,Xiaomi Mi 12,2006016.00,2024-12-05,pending
+129,Ika,Oppo Find X5,2006063.00,2025-01-15,failed
+130,Joko,Vivo X90,2006110.00,2025-02-15,paid
+131,Kiki,Iphone 16 Pro,2006157.00,2023-03-01,pending
+132,Lia,Samsung Galaxy S24,2006204.00,2023-06-15,failed
+133,Made,Xiaomi Mi 12,2006251.00,2023-09-10,paid
+134,Nina,Oppo Find X5,2006298.00,2023-12-05,pending
+135,Oni,Vivo X90,2006345.00,2024-03-01,failed
+136,Putra,Iphone 16 Pro,2006392.00,2024-06-15,paid
+137,Rini,Samsung Galaxy S24,2006439.00,2024-09-10,pending
+138,Sari,Xiaomi Mi 12,2006486.00,2024-12-05,failed
+139,Teguh,Oppo Find X5,2006533.00,2025-01-15,paid
+140,Wulan,Vivo X90,2006580.00,2025-02-15,pending
+141,Alex,Iphone 16 Pro,2006627.00,2023-03-01,failed
+142,Budi,Samsung Galaxy S24,2006674.00,2023-06-15,paid
+143,Citra,Xiaomi Mi 12,2006721.00,2023-09-10,pending
+144,Dewi,Oppo Find X5,2006768.00,2023-12-05,failed
+145,Eka,Vivo X90,2006815.00,2024-03-01,paid
+146,Fajar,Iphone 16 Pro,2006862.00,2024-06-15,pending
+147,Gina,Samsung Galaxy S24,2006909.00,2024-09-10,failed
+148,Hendra,Xiaomi Mi 12,2006956.00,2024-12-05,paid
+149,Ika,Oppo Find X5,2007003.00,2025-01-15,pending
+150,Joko,Vivo X90,2007050.00,2025-02-15,failed
+151,Kiki,Iphone 16 Pro,2007097.00,2023-03-01,paid
+152,Lia,Samsung Galaxy S24,2007144.00,2023-06-15,pending
+153,Made,Xiaomi Mi 12,2007191.00,2023-09-10,failed
+154,Nina,Oppo Find X5,2007238.00,2023-12-05,paid
+155,Oni,Vivo X90,2007285.00,2024-03-01,pending
+156,Putra,Iphone 16 Pro,2007332.00,2024-06-15,failed
+157,Rini,Samsung Galaxy S24,2007379.00,2024-09-10,paid
+158,Sari,Xiaomi Mi 12,2007426.00,2024-12-05,pending
+159,Teguh,Oppo Find X5,2007473.00,2025-01-15,failed
+160,Wulan,Vivo X90,2007520.00,2025-02-15,paid
+161,Alex,Iphone 16 Pro,2007567.00,2023-03-01,pending
+162,Budi,Samsung Galaxy S24,2007614.00,2023-06-15,failed
+163,Citra,Xiaomi Mi 12,2007661.00,2023-09-10,paid
+164,Dewi,Oppo Find X5,2007708.00,2023-12-05,pending
+165,Eka,Vivo X90,2007755.00,2024-03-01,failed
+166,Fajar,Iphone 16 Pro,2007802.00,2024-06-15,paid
+167,Gina,Samsung Galaxy S24,2007849.00,2024-09-10,pending
+168,Hendra,Xiaomi Mi 12,2007896.00,2024-12-05,failed
+169,Ika,Oppo Find X5,2007943.00,2025-01-15,paid
+170,Joko,Vivo X90,2007990.00,2025-02-15,pending
+171,Kiki,Iphone 16 Pro,2008037.00,2023-03-01,failed
+172,Lia,Samsung Galaxy S24,2008084.00,2023-06-15,paid
+173,Made,Xiaomi Mi 12,2008131.00,2023-09-10,pending
+174,Nina,Oppo Find X5,2008178.00,2023-12-05,failed
+175,Oni,Vivo X90,2008225.00,2024-03-01,paid
+176,Putra,Iphone 16 Pro,2008272.00,2024-06-15,pending
+177,Rini,Samsung Galaxy S24,2008319.00,2024-09-10,failed
+178,Sari,Xiaomi Mi 12,2008366.00,2024-12-05,paid
+179,Teguh,Oppo Find X5,2008413.00,2025-01-15,pending
+180,Wulan,Vivo X90,2008460.00,2025-02-15,failed
+181,Alex,Iphone 16 Pro,2008507.00,2023-03-01,paid
+182,Budi,Samsung Galaxy S24,2008554.00,2023-06-15,pending
+183,Citra,Xiaomi Mi 12,2008601.00,2023-09-10,failed
+184,Dewi,Oppo Find X5,2008648.00,2023-12-05,paid
+185,Eka,Vivo X90,2008695.00,2024-03-01,pending
+186,Fajar,Iphone 16 Pro,2008742.00,2024-06-15,failed
+187,Gina,Samsung Galaxy S24,2008789.00,2024-09-10,paid
+188,Hendra,Xiaomi Mi 12,2008836.00,2024-12-05,pending
+189,Ika,Oppo Find X5,2008883.00,2025-01-15,failed
+190,Joko,Vivo X90,2008930.00,2025-02-15,paid
+191,Kiki,Iphone 16 Pro,2008977.00,2023-03-01,pending
+192,Lia,Samsung Galaxy S24,2009024.00,2023-06-15,failed
+193,Made,Xiaomi Mi 12,2009071.00,2023-09-10,paid
+194,Nina,Oppo Find X5,2009118.00,2023-12-05,pending
+195,Oni,Vivo X90,2009165.00,2024-03-01,failed
+196,Putra,Iphone 16 Pro,2009212.00,2024-06-15,paid
+197,Rini,Samsung Galaxy S24,2009259.00,2024-09-10,pending
+198,Sari,Xiaomi Mi 12,2009306.00,2024-12-05,failed
+199,Teguh,Oppo Find X5,2009353.00,2025-01-15,paid
+200,Wulan,Vivo X90,2009400.00,2025-02-15,pending
+201,Alex,Iphone 16 Pro,2009447.00,2023-03-01,failed
+202,Budi,Samsung Galaxy S24,2009494.00,2023-06-15,paid
+203,Citra,Xiaomi Mi 12,2009541.00,2023-09-10,pending
+204,Dewi,Oppo Find X5,2009588.00,2023-12-05,failed
+205,Eka,Vivo X90,2009635.00,2024-03-01,paid
+206,Fajar,Iphone 16 Pro,2009682.00,2024-06-15,pending
+207,Gina,Samsung Galaxy S24,2009729.00,2024-09-10,failed
+208,Hendra,Xiaomi Mi 12,2009776.00,2024-12-05,paid
+209,Ika,Oppo Find X5,2009823.00,2025-01-15,pending
+210,Joko,Vivo X90,2009870.00,2025-02-15,failed
+211,Kiki,Iphone 16 Pro,2009917.00,2023-03-01,paid
+212,Lia,Samsung Galaxy S24,2009964.00,2023-06-15,pending
+213,Made,Xiaomi Mi 12,2010011.00,2023-09-10,failed
+214,Nina,Oppo Find X5,2010058.00,2023-12-05,paid
+215,Oni,Vivo X90,2010105.00,2024-03-01,pending
+216,Putra,Iphone 16 Pro,2010152.00,2024-06-15,failed
+217,Rini,Samsung Galaxy S24,2010199.00,2024-09-10,paid
+218,Sari,Xiaomi Mi 12,2010246.00,2024-12-05,pending
+219,Teguh,Oppo Find X5,2010293.00,2025-01-15,failed
+220,Wulan,Vivo X90,2010340.00,2025-02-15,paid
+221,Alex,Iphone 16 Pro,2010387.00,2023-03-01,pending
+222,Budi,Samsung Galaxy S24,2010434.00,2023-06-15,failed
+223,Citra,Xiaomi Mi 12,2010481.00,2023-09-10,paid
+224,Dewi,Oppo Find X5,2010528.00,2023-12-05,pending
+225,Eka,Vivo X90,2010575.00,2024-03-01,failed
+226,Fajar,Iphone 16 Pro,2010622.00,2024-06-15,paid
+227,Gina,Samsung Galaxy S24,2010669.00,2024-09-10,pending
+228,Hendra,Xiaomi Mi 12,2010716.00,2024-12-05,failed
+229,Ika,Oppo Find X5,2010763.00,2025-01-15,paid
+230,Joko,Vivo X90,2010810.00,2025-02-15,pending
+231,Kiki,Iphone 16 Pro,2010857.00,2023-03-01,failed
+232,Lia,Samsung Galaxy S24,2010904.00,2023-06-15,paid
+233,Made,Xiaomi Mi 12,2010951.00,2023-09-10,pending
+234,Nina,Oppo Find X5,2010998.00,2023-12-05,failed
+235,Oni,Vivo X90,2011045.00,2024-03-01,paid
+236,Putra,Iphone 16 Pro,2011092.00,2024-06-15,pending
+237,Rini,Samsung Galaxy S24,2011139.00,2024-09-10,failed
+238,Sari,Xiaomi Mi 12,2011186.00,2024-12-05,paid
+239,Teguh,Oppo Find X5,2011233.00,2025-01-15,pending
+240,Wulan,Vivo X90,2011280.00,2025-02-15,failed
+241,Alex,Iphone 16 Pro,2011327.00,2023-03-01,paid
+242,Budi,Samsung Galaxy S24,2011374.00,2023-06-15,pending
+243,Citra,Xiaomi Mi 12,2011421.00,2023-09-10,failed
+244,Dewi,Oppo Find X5,2011468.00,2023-12-05,paid
+245,Eka,Vivo X90,2011515.00,2024-03-01,pending
+246,Fajar,Iphone 16 Pro,2011562.00,2024-06-15,failed
+247,Gina,Samsung Galaxy S24,2011609.00,2024-09-10,paid
+248,Hendra,Xiaomi Mi 12,2011656.00,2024-12-05,pending
+249,Ika,Oppo Find X5,2011703.00,2025-01-15,failed
+250,Joko,Vivo X90,2011750.00,2025-02-15,paid
+251,Kiki,Iphone 16 Pro,2011797.00,2023-03-01,pending
+252,Lia,Samsung Galaxy S24,2011844.00,2023-06-15,failed
+253,Made,Xiaomi Mi 12,2011891.00,2023-09-10,paid
+254,Nina,Oppo Find X5,2011938.00,2023-12-05,pending
+255,Oni,Vivo X90,2011985.00,2024-03-01,failed
+256,Putra,Iphone 16 Pro,2012032.00,2024-06-15,paid
+257,Rini,Samsung Galaxy S24,2012079.00,2024-09-10,pending
+258,Sari,Xiaomi Mi 12,2012126.00,2024-12-05,failed
+259,Teguh,Oppo Find X5,2012173.00,2025-01-15,paid
+260,Wulan,Vivo X90,2012220.00,2025-02-15,pending
+261,Alex,Iphone 16 Pro,2012267.00,2023-03-01,failed
+262,Budi,Samsung Galaxy S24,2012314.00,2023-06-15,paid
+263,Citra,Xiaomi Mi 12,2012361.00,2023-09-10,pending
+264,Dewi,Oppo Find X5,2012408.00,2023-12-05,failed
+265,Eka,Vivo X90,2012455.00,2024-03-01,paid
+266,Fajar,Iphone 16 Pro,2012502.00,2024-06-15,pending
+267,Gina,Samsung Galaxy S24,2012549.00,2024-09-10,failed
+268,Hendra,Xiaomi Mi 12,2012596.00,2024-12-05,paid
+269,Ika,Oppo Find X5,2012643.00,2025-01-15,pending
+270,Joko,Vivo X90,2012690.00,2025-02-15,failed
+271,Kiki,Iphone 16 Pro,2012737.00,2023-03-01,paid
+272,Lia,Samsung Galaxy S24,2012784.00,2023-06-15,pending
+273,Made,Xiaomi Mi 12,2012831.00,2023-09-10,failed
+274,Nina,Oppo Find X5,2012878.00,2023-12-05,paid
+275,Oni,Vivo X90,2012925.00,2024-03-01,pending
+276,Putra,Iphone 16 Pro,2012972.00,2024-06-15,failed
+277,Rini,Samsung Galaxy S24,2013019.00,2024-09-10,paid
+278,Sari,Xiaomi Mi 12,2013066.00,2024-12-05,pending
+279,Teguh,Oppo Find X5,2013113.00,2025-01-15,failed
+280,Wulan,Vivo X90,2013160.00,2025-02-15,paid
+281,Alex,Iphone 16 Pro,2013207.00,2023-03-01,pending
+282,Budi,Samsung Galaxy S24,2013254.00,2023-06-15,failed
+283,Citra,Xiaomi Mi 12,2013301.00,2023-09-10,paid
+284,Dewi,Oppo Find X5,2013348.00,2023-12-05,pending
+285,Eka,Vivo X90,2013395.00,2024-03-01,failed
+286,Fajar,Iphone 16 Pro,2013442.00,2024-06-15,paid
+287,Gina,Samsung Galaxy S24,2013489.00,2024-09-10,pending
+288,Hendra,Xiaomi Mi 12,2013536.00,2024-12-05,failed
+289,Ika,Oppo Find X5,2013583.00,2025-01-15,paid
+290,Joko,Vivo X90,2013630.00,2025-02-15,pending
+291,Kiki,Iphone 16 Pro,2013677.00,2023-03-01,failed
+292,Lia,Samsung Galaxy S24,2013724.00,2023-06-15,paid
+293,Made,Xiaomi Mi 12,2013771.00,2023-09-10,pending
+294,Nina,Oppo Find X5,2013818.00,2023-12-05,failed
+295,Oni,Vivo X90,2013865.00,2024-03-01,paid
+296,Putra,Iphone 16 Pro,2013912.00,2024-06-15,pending
+297,Rini,Samsung Galaxy S24,2013959.00,2024-09-10,failed
+298,Sari,Xiaomi Mi 12,2014006.00,2024-12-05,paid
+299,Teguh,Oppo Find X5,2014053.00,2025-01-15,pending
+300,Wulan,Vivo X90,2014100.00,2025-02-15,failed
+301,Alex,Iphone 16 Pro,2014147.00,2023-03-01,paid
+302,Budi,Samsung Galaxy S24,2014194.00,2023-06-15,pending
+303,Citra,Xiaomi Mi 12,2014241.00,2023-09-10,failed
+304,Dewi,Oppo Find X5,2014288.00,2023-12-05,paid
+305,Eka,Vivo X90,2014335.00,2024-03-01,pending
+306,Fajar,Iphone 16 Pro,2014382.00,2024-06-15,failed
+307,Gina,Samsung Galaxy S24,2014429.00,2024-09-10,paid
+308,Hendra,Xiaomi Mi 12,2014476.00,2024-12-05,pending
+309,Ika,Oppo Find X5,2014523.00,2025-01-15,failed
+310,Joko,Vivo X90,2014570.00,2025-02-15,paid
+311,Kiki,Iphone 16 Pro,2014617.00,2023-03-01,pending
+312,Lia,Samsung Galaxy S24,2014664.00,2023-06-15,failed
+313,Made,Xiaomi Mi 12,2014711.00,2023-09-10,paid
+314,Nina,Oppo Find X5,2014758.00,2023-12-05,pending
+315,Oni,Vivo X90,2014805.00,2024-03-01,failed
+316,Putra,Iphone 16 Pro,2014852.00,2024-06-15,paid
+317,Rini,Samsung Galaxy S24,2014899.00,2024-09-10,pending
+318,Sari,Xiaomi Mi 12,2014946.00,2024-12-05,failed
+319,Teguh,Oppo Find X5,2014993.00,2025-01-15,paid
+320,Wulan,Vivo X90,2015040.00,2025-02-15,pending
+321,Alex,Iphone 16 Pro,2015087.00,2023-03-01,failed
+322,Budi,Samsung Galaxy S24,2015134.00,2023-06-15,paid
+323,Citra,Xiaomi Mi 12,2015181.00,2023-09-10,pending
+324,Dewi,Oppo Find X5,2015228.00,2023-12-05,failed
+325,Eka,Vivo X90,2015275.00,2024-03-01,paid
+326,Fajar,Iphone 16 Pro,2015322.00,2024-06-15,pending
+327,Gina,Samsung Galaxy S24,2015369.00,2024-09-10,failed
+328,Hendra,Xiaomi Mi 12,2015416.00,2024-12-05,paid
+329,Ika,Oppo Find X5,2015463.00,2025-01-15,pending
+330,Joko,Vivo X90,2015510.00,2025-02-15,failed
+331,Kiki,Iphone 16 Pro,2015557.00,2023-03-01,paid
+332,Lia,Samsung Galaxy S24,2015604.00,2023-06-15,pending
+333,Made,Xiaomi Mi 12,2015651.00,2023-09-10,failed
+334,Nina,Oppo Find X5,2015698.00,2023-12-05,paid
+335,Oni,Vivo X90,2015745.00,2024-03-01,pending
+336,Putra,Iphone 16 Pro,2015792.00,2024-06-15,failed
+337,Rini,Samsung Galaxy S24,2015839.00,2024-09-10,paid
+338,Sari,Xiaomi Mi 12,2015886.00,2024-12-05,pending
+339,Teguh,Oppo Find X5,2015933.00,2025-01-15,failed
+340,Wulan,Vivo X90,2015980.00,2025-02-15,paid
+341,Alex,Iphone 16 Pro,2016027.00,2023-03-01,pending
+342,Budi,Samsung Galaxy S24,2016074.00,2023-06-15,failed
+343,Citra,Xiaomi Mi 12,2016121.00,2023-09-10,paid
+344,Dewi,Oppo Find X5,2016168.00,2023-12-05,pending
+345,Eka,Vivo X90,2016215.00,2024-03-01,failed
+346,Fajar,Iphone 16 Pro,2016262.00,2024-06-15,paid
+347,Gina,Samsung Galaxy S24,2016309.00,2024-09-10,pending
+348,Hendra,Xiaomi Mi 12,2016356.00,2024-12-05,failed
+349,Ika,Oppo Find X5,2016403.00,2025-01-15,paid
+350,Joko,Vivo X90,2016450.00,2025-02-15,pending
+351,Kiki,Iphone 16 Pro,2016497.00,2023-03-01,failed
+352,Lia,Samsung Galaxy S24,2016544.00,2023-06-15,paid
+353,Made,Xiaomi Mi 12,2016591.00,2023-09-10,pending
+354,Nina,Oppo Find X5,2016638.00,2023-12-05,failed
+355,Oni,Vivo X90,2016685.00,2024-03-01,paid
+356,Putra,Iphone 16 Pro,2016732.00,2024-06-15,pending
+357,Rini,Samsung Galaxy S24,2016779.00,2024-09-10,failed
+358,Sari,Xiaomi Mi 12,2016826.00,2024-12-05,paid
+359,Teguh,Oppo Find X5,2016873.00,2025-01-15,pending
+360,Wulan,Vivo X90,2016920.00,2025-02-15,failed
+361,Alex,Iphone 16 Pro,2016967.00,2023-03-01,paid
+362,Budi,Samsung Galaxy S24,2017014.00,2023-06-15,pending
+363,Citra,Xiaomi Mi 12,2017061.00,2023-09-10,failed
+364,Dewi,Oppo Find X5,2017108.00,2023-12-05,paid
+365,Eka,Vivo X90,2017155.00,2024-03-01,pending
+366,Fajar,Iphone 16 Pro,2017202.00,2024-06-15,failed
+367,Gina,Samsung Galaxy S24,2017249.00,2024-09-10,paid
+368,Hendra,Xiaomi Mi 12,2017296.00,2024-12-05,pending
+369,Ika,Oppo Find X5,2017343.00,2025-01-15,failed
+370,Joko,Vivo X90,2017390.00,2025-02-15,paid
+371,Kiki,Iphone 16 Pro,2017437.00,2023-03-01,pending
+372,Lia,Samsung Galaxy S24,2017484.00,2023-06-15,failed
+373,Made,Xiaomi Mi 12,2017531.00,2023-09-10,paid
+374,Nina,Oppo Find X5,2017578.00,2023-12-05,pending
+375,Oni,Vivo X90,2017625.00,2024-03-01,failed
+376,Putra,Iphone 16 Pro,2017672.00,2024-06-15,paid
+377,Rini,Samsung Galaxy S24,2017719.00,2024-09-10,pending
+378,Sari,Xiaomi Mi 12,2017766.00,2024-12-05,failed
+379,Teguh,Oppo Find X5,2017813.00,2025-01-15,paid
+380,Wulan,Vivo X90,2017860.00,2025-02-15,pending
+381,Alex,Iphone 16 Pro,2017907.00,2023-03-01,failed
+382,Budi,Samsung Galaxy S24,2017954.00,2023-06-15,paid
+383,Citra,Xiaomi Mi 12,2018001.00,2023-09-10,pending
+384,Dewi,Oppo Find X5,2018048.00,2023-12-05,failed
+385,Eka,Vivo X90,2018095.00,2024-03-01,paid
+386,Fajar,Iphone 16 Pro,2018142.00,2024-06-15,pending
+387,Gina,Samsung Galaxy S24,2018189.00,2024-09-10,failed
+388,Hendra,Xiaomi Mi 12,2018236.00,2024-12-05,paid
+389,Ika,Oppo Find X5,2018283.00,2025-01-15,pending
+390,Joko,Vivo X90,2018330.00,2025-02-15,failed
+391,Kiki,Iphone 16 Pro,2018377.00,2023-03-01,paid
+392,Lia,Samsung Galaxy S24,2018424.00,2023-06-15,pending
+393,Made,Xiaomi Mi 12,2018471.00,2023-09-10,failed
+394,Nina,Oppo Find X5,2018518.00,2023-12-05,paid
+395,Oni,Vivo X90,2018565.00,2024-03-01,pending
+396,Putra,Iphone 16 Pro,2018612.00,2024-06-15,failed
+397,Rini,Samsung Galaxy S24,2018659.00,2024-09-10,paid
+398,Sari,Xiaomi Mi 12,2018706.00,2024-12-05,pending
+399,Teguh,Oppo Find X5,2018753.00,2025-01-15,failed
+400,Wulan,Vivo X90,2018800.00,2025-02-15,paid
+401,Alex,Iphone 16 Pro,2018847.00,2023-03-01,pending
+402,Budi,Samsung Galaxy S24,2018894.00,2023-06-15,failed
+403,Citra,Xiaomi Mi 12,2018941.00,2023-09-10,paid
+404,Dewi,Oppo Find X5,2018988.00,2023-12-05,pending
+405,Eka,Vivo X90,2019035.00,2024-03-01,failed
+406,Fajar,Iphone 16 Pro,2019082.00,2024-06-15,paid
+407,Gina,Samsung Galaxy S24,2019129.00,2024-09-10,pending
+408,Hendra,Xiaomi Mi 12,2019176.00,2024-12-05,failed
+409,Ika,Oppo Find X5,2019223.00,2025-01-15,paid
+410,Joko,Vivo X90,2019270.00,2025-02-15,pending
+411,Kiki,Iphone 16 Pro,2019317.00,2023-03-01,failed
+412,Lia,Samsung Galaxy S24,2019364.00,2023-06-15,paid
+413,Made,Xiaomi Mi 12,2019411.00,2023-09-10,pending
+414,Nina,Oppo Find X5,2019458.00,2023-12-05,failed
+415,Oni,Vivo X90,2019505.00,2024-03-01,paid
+416,Putra,Iphone 16 Pro,2019552.00,2024-06-15,pending
+417,Rini,Samsung Galaxy S24,2019599.00,2024-09-10,failed
+418,Sari,Xiaomi Mi 12,2019646.00,2024-12-05,paid
+419,Teguh,Oppo Find X5,2019693.00,2025-01-15,pending
+420,Wulan,Vivo X90,2019740.00,2025-02-15,failed
+421,Alex,Iphone 16 Pro,2019787.00,2023-03-01,paid
+422,Budi,Samsung Galaxy S24,2019834.00,2023-06-15,pending
+423,Citra,Xiaomi Mi 12,2019881.00,2023-09-10,failed
+424,Dewi,Oppo Find X5,2019928.00,2023-12-05,paid
+425,Eka,Vivo X90,2019975.00,2024-03-01,pending
+426,Fajar,Iphone 16 Pro,2020022.00,2024-06-15,failed
+427,Gina,Samsung Galaxy S24,2020069.00,2024-09-10,paid
+428,Hendra,Xiaomi Mi 12,2020116.00,2024-12-05,pending
+429,Ika,Oppo Find X5,2020163.00,2025-01-15,failed
+430,Joko,Vivo X90,2020210.00,2025-02-15,paid
+431,Kiki,Iphone 16 Pro,2020257.00,2023-03-01,pending
+432,Lia,Samsung Galaxy S24,2020304.00,2023-06-15,failed
+433,Made,Xiaomi Mi 12,2020351.00,2023-09-10,paid
+434,Nina,Oppo Find X5,2020398.00,2023-12-05,pending
+435,Oni,Vivo X90,2020445.00,2024-03-01,failed
+436,Putra,Iphone 16 Pro,2020492.00,2024-06-15,paid
+437,Rini,Samsung Galaxy S24,2020539.00,2024-09-10,pending
+438,Sari,Xiaomi Mi 12,2020586.00,2024-12-05,failed
+439,Teguh,Oppo Find X5,2020633.00,2025-01-15,paid
+440,Wulan,Vivo X90,2020680.00,2025-02-15,pending
+441,Alex,Iphone 16 Pro,2020727.00,2023-03-01,failed
+442,Budi,Samsung Galaxy S24,2020774.00,2023-06-15,paid
+443,Citra,Xiaomi Mi 12,2020821.00,2023-09-10,pending
+444,Dewi,Oppo Find X5,2020868.00,2023-12-05,failed
+445,Eka,Vivo X90,2020915.00,2024-03-01,paid
+446,Fajar,Iphone 16 Pro,2020962.00,2024-06-15,pending
+447,Gina,Samsung Galaxy S24,2021009.00,2024-09-10,failed
+448,Hendra,Xiaomi Mi 12,2021056.00,2024-12-05,paid
+449,Ika,Oppo Find X5,2021103.00,2025-01-15,pending
+450,Joko,Vivo X90,2021150.00,2025-02-15,failed
+451,Kiki,Iphone 16 Pro,2021197.00,2023-03-01,paid
+452,Lia,Samsung Galaxy S24,2021244.00,2023-06-15,pending
+453,Made,Xiaomi Mi 12,2021291.00,2023-09-10,failed
+454,Nina,Oppo Find X5,2021338.00,2023-12-05,paid
+455,Oni,Vivo X90,2021385.00,2024-03-01,pending
+456,Putra,Iphone 16 Pro,2021432.00,2024-06-15,failed
+457,Rini,Samsung Galaxy S24,2021479.00,2024-09-10,paid
+458,Sari,Xiaomi Mi 12,2021526.00,2024-12-05,pending
+459,Teguh,Oppo Find X5,2021573.00,2025-01-15,failed
+460,Wulan,Vivo X90,2021620.00,2025-02-15,paid
+461,Alex,Iphone 16 Pro,2021667.00,2023-03-01,pending
+462,Budi,Samsung Galaxy S24,2021714.00,2023-06-15,failed
+463,Citra,Xiaomi Mi 12,2021761.00,2023-09-10,paid
+464,Dewi,Oppo Find X5,2021808.00,2023-12-05,pending
+465,Eka,Vivo X90,2021855.00,2024-03-01,failed
+466,Fajar,Iphone 16 Pro,2021902.00,2024-06-15,paid
+467,Gina,Samsung Galaxy S24,2021949.00,2024-09-10,pending
+468,Hendra,Xiaomi Mi 12,2021996.00,2024-12-05,failed
+469,Ika,Oppo Find X5,2022043.00,2025-01-15,paid
+470,Joko,Vivo X90,2022090.00,2025-02-15,pending
+471,Kiki,Iphone 16 Pro,2022137.00,2023-03-01,failed
+472,Lia,Samsung Galaxy S24,2022184.00,2023-06-15,paid
+473,Made,Xiaomi Mi 12,2022231.00,2023-09-10,pending
+474,Nina,Oppo Find X5,2022278.00,2023-12-05,failed
+475,Oni,Vivo X90,2022325.00,2024-03-01,paid
+476,Putra,Iphone 16 Pro,2022372.00,2024-06-15,pending
+477,Rini,Samsung Galaxy S24,2022419.00,2024-09-10,failed
+478,Sari,Xiaomi Mi 12,2022466.00,2024-12-05,paid
+479,Teguh,Oppo Find X5,2022513.00,2025-01-15,pending
+480,Wulan,Vivo X90,2022560.00,2025-02-15,failed
+481,Alex,Iphone 16 Pro,2022607.00,2023-03-01,paid
+482,Budi,Samsung Galaxy S24,2022654.00,2023-06-15,pending
+483,Citra,Xiaomi Mi 12,2022701.00,2023-09-10,failed
+484,Dewi,Oppo Find X5,2022748.00,2023-12-05,paid
+485,Eka,Vivo X90,2022795.00,2024-03-01,pending
+486,Fajar,Iphone 16 Pro,2022842.00,2024-06-15,failed
+487,Gina,Samsung Galaxy S24,2022889.00,2024-09-10,paid
+488,Hendra,Xiaomi Mi 12,2022936.00,2024-12-05,pending
+489,Ika,Oppo Find X5,2022983.00,2025-01-15,failed
+490,Joko,Vivo X90,2023030.00,2025-02-15,paid
+491,Kiki,Iphone 16 Pro,2023077.00,2023-03-01,pending
+492,Lia,Samsung Galaxy S24,2023124.00,2023-06-15,failed
+493,Made,Xiaomi Mi 12,2023171.00,2023-09-10,paid
+494,Nina,Oppo Find X5,2023218.00,2023-12-05,pending
+495,Oni,Vivo X90,2023265.00,2024-03-01,failed
+496,Putra,Iphone 16 Pro,2023312.00,2024-06-15,paid
+497,Rini,Samsung Galaxy S24,2023359.00,2024-09-10,pending
+498,Sari,Xiaomi Mi 12,2023406.00,2024-12-05,failed
+499,Teguh,Oppo Find X5,2023453.00,2025-01-15,paid
+500,Wulan,Vivo X90,2023500.00,2025-02-15,pending
+501,Alex,Iphone 16 Pro,2023547.00,2023-03-01,failed
+502,Budi,Samsung Galaxy S24,2023594.00,2023-06-15,paid
+503,Citra,Xiaomi Mi 12,2023641.00,2023-09-10,pending
+504,Dewi,Oppo Find X5,2023688.00,2023-12-05,failed
+505,Eka,Vivo X90,2023735.00,2024-03-01,paid
+506,Fajar,Iphone 16 Pro,2023782.00,2024-06-15,pending
+507,Gina,Samsung Galaxy S24,2023829.00,2024-09-10,failed
+508,Hendra,Xiaomi Mi 12,2023876.00,2024-12-05,paid
+509,Ika,Oppo Find X5,2023923.00,2025-01-15,pending
+510,Joko,Vivo X90,2023970.00,2025-02-15,failed
+511,Kiki,Iphone 16 Pro,2024017.00,2023-03-01,paid
+512,Lia,Samsung Galaxy S24,2024064.00,2023-06-15,pending
+513,Made,Xiaomi Mi 12,2024111.00,2023-09-10,failed
+514,Nina,Oppo Find X5,2024158.00,2023-12-05,paid
+515,Oni,Vivo X90,2024205.00,2024-03-01,pending
+516,Putra,Iphone 16 Pro,2024252.00,2024-06-15,failed
+517,Rini,Samsung Galaxy S24,2024299.00,2024-09-10,paid
+518,Sari,Xiaomi Mi 12,2024346.00,2024-12-05,pending
+519,Teguh,Oppo Find X5,2024393.00,2025-01-15,failed
+520,Wulan,Vivo X90,2024440.00,2025-02-15,paid
+521,Alex,Iphone 16 Pro,2024487.00,2023-03-01,pending
+522,Budi,Samsung Galaxy S24,2024534.00,2023-06-15,failed
+523,Citra,Xiaomi Mi 12,2024581.00,2023-09-10,paid
+524,Dewi,Oppo Find X5,2024628.00,2023-12-05,pending
+525,Eka,Vivo X90,2024675.00,2024-03-01,failed
+526,Fajar,Iphone 16 Pro,2024722.00,2024-06-15,paid
+527,Gina,Samsung Galaxy S24,2024769.00,2024-09-10,pending
+528,Hendra,Xiaomi Mi 12,2024816.00,2024-12-05,failed
+529,Ika,Oppo Find X5,2024863.00,2025-01-15,paid
+530,Joko,Vivo X90,2024910.00,2025-02-15,pending
+531,Kiki,Iphone 16 Pro,2024957.00,2023-03-01,failed
+532,Lia,Samsung Galaxy S24,2025004.00,2023-06-15,paid
+533,Made,Xiaomi Mi 12,2025051.00,2023-09-10,pending
+534,Nina,Oppo Find X5,2025098.00,2023-12-05,failed
+535,Oni,Vivo X90,2025145.00,2024-03-01,paid
+536,Putra,Iphone 16 Pro,2025192.00,2024-06-15,pending
+537,Rini,Samsung Galaxy S24,2025239.00,2024-09-10,failed
+538,Sari,Xiaomi Mi 12,2025286.00,2024-12-05,paid
+539,Teguh,Oppo Find X5,2025333.00,2025-01-15,pending
+540,Wulan,Vivo X90,2025380.00,2025-02-15,failed
+541,Alex,Iphone 16 Pro,2025427.00,2023-03-01,paid
+542,Budi,Samsung Galaxy S24,2025474.00,2023-06-15,pending
+543,Citra,Xiaomi Mi 12,2025521.00,2023-09-10,failed
+544,Dewi,Oppo Find X5,2025568.00,2023-12-05,paid
+545,Eka,Vivo X90,2025615.00,2024-03-01,pending
+546,Fajar,Iphone 16 Pro,2025662.00,2024-06-15,failed
+547,Gina,Samsung Galaxy S24,2025709.00,2024-09-10,paid
+548,Hendra,Xiaomi Mi 12,2025756.00,2024-12-05,pending
+549,Ika,Oppo Find X5,2025803.00,2025-01-15,failed
+550,Joko,Vivo X90,2025850.00,2025-02-15,paid
+551,Kiki,Iphone 16 Pro,2025897.00,2023-03-01,pending
+552,Lia,Samsung Galaxy S24,2025944.00,2023-06-15,failed
+553,Made,Xiaomi Mi 12,2025991.00,2023-09-10,paid
+554,Nina,Oppo Find X5,2026038.00,2023-12-05,pending
+555,Oni,Vivo X90,2026085.00,2024-03-01,failed
+556,Putra,Iphone 16 Pro,2026132.00,2024-06-15,paid
+557,Rini,Samsung Galaxy S24,2026179.00,2024-09-10,pending
+558,Sari,Xiaomi Mi 12,2026226.00,2024-12-05,failed
+559,Teguh,Oppo Find X5,2026273.00,2025-01-15,paid
+560,Wulan,Vivo X90,2026320.00,2025-02-15,pending
+561,Alex,Iphone 16 Pro,2026367.00,2023-03-01,failed
+562,Budi,Samsung Galaxy S24,2026414.00,2023-06-15,paid
+563,Citra,Xiaomi Mi 12,2026461.00,2023-09-10,pending
+564,Dewi,Oppo Find X5,2026508.00,2023-12-05,failed
+565,Eka,Vivo X90,2026555.00,2024-03-01,paid
+566,Fajar,Iphone 16 Pro,2026602.00,2024-06-15,pending
+567,Gina,Samsung Galaxy S24,2026649.00,2024-09-10,failed
+568,Hendra,Xiaomi Mi 12,2026696.00,2024-12-05,paid
+569,Ika,Oppo Find X5,2026743.00,2025-01-15,pending
+570,Joko,Vivo X90,2026790.00,2025-02-15,failed
+571,Kiki,Iphone 16 Pro,2026837.00,2023-03-01,paid
+572,Lia,Samsung Galaxy S24,2026884.00,2023-06-15,pending
+573,Made,Xiaomi Mi 12,2026931.00,2023-09-10,failed
+574,Nina,Oppo Find X5,2026978.00,2023-12-05,paid
+575,Oni,Vivo X90,2027025.00,2024-03-01,pending
+576,Putra,Iphone 16 Pro,2027072.00,2024-06-15,failed
+577,Rini,Samsung Galaxy S24,2027119.00,2024-09-10,paid
+578,Sari,Xiaomi Mi 12,2027166.00,2024-12-05,pending
+579,Teguh,Oppo Find X5,2027213.00,2025-01-15,failed
+580,Wulan,Vivo X90,2027260.00,2025-02-15,paid
+581,Alex,Iphone 16 Pro,2027307.00,2023-03-01,pending
+582,Budi,Samsung Galaxy S24,2027354.00,2023-06-15,failed
+583,Citra,Xiaomi Mi 12,2027401.00,2023-09-10,paid
+584,Dewi,Oppo Find X5,2027448.00,2023-12-05,pending
+585,Eka,Vivo X90,2027495.00,2024-03-01,failed
+586,Fajar,Iphone 16 Pro,2027542.00,2024-06-15,paid
+587,Gina,Samsung Galaxy S24,2027589.00,2024-09-10,pending
+588,Hendra,Xiaomi Mi 12,2027636.00,2024-12-05,failed
+589,Ika,Oppo Find X5,2027683.00,2025-01-15,paid
+590,Joko,Vivo X90,2027730.00,2025-02-15,pending
+591,Kiki,Iphone 16 Pro,2027777.00,2023-03-01,failed
+592,Lia,Samsung Galaxy S24,2027824.00,2023-06-15,paid
+593,Made,Xiaomi Mi 12,2027871.00,2023-09-10,pending
+594,Nina,Oppo Find X5,2027918.00,2023-12-05,failed
+595,Oni,Vivo X90,2027965.00,2024-03-01,paid
+596,Putra,Iphone 16 Pro,2028012.00,2024-06-15,pending
+597,Rini,Samsung Galaxy S24,2028059.00,2024-09-10,failed
+598,Sari,Xiaomi Mi 12,2028106.00,2024-12-05,paid
+599,Teguh,Oppo Find X5,2028153.00,2025-01-15,pending
+600,Wulan,Vivo X90,2028200.00,2025-02-15,failed
+601,Alex,Iphone 16 Pro,2028247.00,2023-03-01,paid
+602,Budi,Samsung Galaxy S24,2028294.00,2023-06-15,pending
+603,Citra,Xiaomi Mi 12,2028341.00,2023-09-10,failed
+604,Dewi,Oppo Find X5,2028388.00,2023-12-05,paid
+605,Eka,Vivo X90,2028435.00,2024-03-01,pending
+606,Fajar,Iphone 16 Pro,2028482.00,2024-06-15,failed
+607,Gina,Samsung Galaxy S24,2028529.00,2024-09-10,paid
+608,Hendra,Xiaomi Mi 12,2028576.00,2024-12-05,pending
+609,Ika,Oppo Find X5,2028623.00,2025-01-15,failed
+610,Joko,Vivo X90,2028670.00,2025-02-15,paid
+611,Kiki,Iphone 16 Pro,2028717.00,2023-03-01,pending
+612,Lia,Samsung Galaxy S24,2028764.00,2023-06-15,failed
+613,Made,Xiaomi Mi 12,2028811.00,2023-09-10,paid
+614,Nina,Oppo Find X5,2028858.00,2023-12-05,pending
+615,Oni,Vivo X90,2028905.00,2024-03-01,failed
+616,Putra,Iphone 16 Pro,2028952.00,2024-06-15,paid
+617,Rini,Samsung Galaxy S24,2028999.00,2024-09-10,pending
+618,Sari,Xiaomi Mi 12,2029046.00,2024-12-05,failed
+619,Teguh,Oppo Find X5,2029093.00,2025-01-15,paid
+620,Wulan,Vivo X90,2029140.00,2025-02-15,pending
+621,Alex,Iphone 16 Pro,2029187.00,2023-03-01,failed
+622,Budi,Samsung Galaxy S24,2029234.00,2023-06-15,paid
+623,Citra,Xiaomi Mi 12,2029281.00,2023-09-10,pending
+624,Dewi,Oppo Find X5,2029328.00,2023-12-05,failed
+625,Eka,Vivo X90,2029375.00,2024-03-01,paid
+626,Fajar,Iphone 16 Pro,2029422.00,2024-06-15,pending
+627,Gina,Samsung Galaxy S24,2029469.00,2024-09-10,failed
+628,Hendra,Xiaomi Mi 12,2029516.00,2024-12-05,paid
+629,Ika,Oppo Find X5,2029563.00,2025-01-15,pending
+630,Joko,Vivo X90,2029610.00,2025-02-15,failed
+631,Kiki,Iphone 16 Pro,2029657.00,2023-03-01,paid
+632,Lia,Samsung Galaxy S24,2029704.00,2023-06-15,pending
+633,Made,Xiaomi Mi 12,2029751.00,2023-09-10,failed
+634,Nina,Oppo Find X5,2029798.00,2023-12-05,paid
+635,Oni,Vivo X90,2029845.00,2024-03-01,pending
+636,Putra,Iphone 16 Pro,2029892.00,2024-06-15,failed
+637,Rini,Samsung Galaxy S24,2029939.00,2024-09-10,paid
+638,Sari,Xiaomi Mi 12,2029986.00,2024-12-05,pending
+639,Teguh,Oppo Find X5,2030033.00,2025-01-15,failed
+640,Wulan,Vivo X90,2030080.00,2025-02-15,paid
+641,Alex,Iphone 16 Pro,2030127.00,2023-03-01,pending
+642,Budi,Samsung Galaxy S24,2030174.00,2023-06-15,failed
+643,Citra,Xiaomi Mi 12,2030221.00,2023-09-10,paid
+644,Dewi,Oppo Find X5,2030268.00,2023-12-05,pending
+645,Eka,Vivo X90,2030315.00,2024-03-01,failed
+646,Fajar,Iphone 16 Pro,2030362.00,2024-06-15,paid
+647,Gina,Samsung Galaxy S24,2030409.00,2024-09-10,pending
+648,Hendra,Xiaomi Mi 12,2030456.00,2024-12-05,failed
+649,Ika,Oppo Find X5,2030503.00,2025-01-15,paid
+650,Joko,Vivo X90,2030550.00,2025-02-15,pending
+651,Kiki,Iphone 16 Pro,2030597.00,2023-03-01,failed
+652,Lia,Samsung Galaxy S24,2030644.00,2023-06-15,paid
+653,Made,Xiaomi Mi 12,2030691.00,2023-09-10,pending
+654,Nina,Oppo Find X5,2030738.00,2023-12-05,failed
+655,Oni,Vivo X90,2030785.00,2024-03-01,paid
+656,Putra,Iphone 16 Pro,2030832.00,2024-06-15,pending
+657,Rini,Samsung Galaxy S24,2030879.00,2024-09-10,failed
+658,Sari,Xiaomi Mi 12,2030926.00,2024-12-05,paid
+659,Teguh,Oppo Find X5,2030973.00,2025-01-15,pending
+660,Wulan,Vivo X90,2031020.00,2025-02-15,failed
+661,Alex,Iphone 16 Pro,2031067.00,2023-03-01,paid
+662,Budi,Samsung Galaxy S24,2031114.00,2023-06-15,pending
+663,Citra,Xiaomi Mi 12,2031161.00,2023-09-10,failed
+664,Dewi,Oppo Find X5,2031208.00,2023-12-05,paid
+665,Eka,Vivo X90,2031255.00,2024-03-01,pending
+666,Fajar,Iphone 16 Pro,2031302.00,2024-06-15,failed
+667,Gina,Samsung Galaxy S24,2031349.00,2024-09-10,paid
+668,Hendra,Xiaomi Mi 12,2031396.00,2024-12-05,pending
+669,Ika,Oppo Find X5,2031443.00,2025-01-15,failed
+670,Joko,Vivo X90,2031490.00,2025-02-15,paid
+671,Kiki,Iphone 16 Pro,2031537.00,2023-03-01,pending
+672,Lia,Samsung Galaxy S24,2031584.00,2023-06-15,failed
+673,Made,Xiaomi Mi 12,2031631.00,2023-09-10,paid
+674,Nina,Oppo Find X5,2031678.00,2023-12-05,pending
+675,Oni,Vivo X90,2031725.00,2024-03-01,failed
+676,Putra,Iphone 16 Pro,2031772.00,2024-06-15,paid
+677,Rini,Samsung Galaxy S24,2031819.00,2024-09-10,pending
+678,Sari,Xiaomi Mi 12,2031866.00,2024-12-05,failed
+679,Teguh,Oppo Find X5,2031913.00,2025-01-15,paid
+680,Wulan,Vivo X90,2031960.00,2025-02-15,pending
+681,Alex,Iphone 16 Pro,2032007.00,2023-03-01,failed
+682,Budi,Samsung Galaxy S24,2032054.00,2023-06-15,paid
+683,Citra,Xiaomi Mi 12,2032101.00,2023-09-10,pending
+684,Dewi,Oppo Find X5,2032148.00,2023-12-05,failed
+685,Eka,Vivo X90,2032195.00,2024-03-01,paid
+686,Fajar,Iphone 16 Pro,2032242.00,2024-06-15,pending
+687,Gina,Samsung Galaxy S24,2032289.00,2024-09-10,failed
+688,Hendra,Xiaomi Mi 12,2032336.00,2024-12-05,paid
+689,Ika,Oppo Find X5,2032383.00,2025-01-15,pending
+690,Joko,Vivo X90,2032430.00,2025-02-15,failed
+691,Kiki,Iphone 16 Pro,2032477.00,2023-03-01,paid
+692,Lia,Samsung Galaxy S24,2032524.00,2023-06-15,pending
+693,Made,Xiaomi Mi 12,2032571.00,2023-09-10,failed
+694,Nina,Oppo Find X5,2032618.00,2023-12-05,paid
+695,Oni,Vivo X90,2032665.00,2024-03-01,pending
+696,Putra,Iphone 16 Pro,2032712.00,2024-06-15,failed
+697,Rini,Samsung Galaxy S24,2032759.00,2024-09-10,paid
+698,Sari,Xiaomi Mi 12,2032806.00,2024-12-05,pending
+699,Teguh,Oppo Find X5,2032853.00,2025-01-15,failed
+700,Wulan,Vivo X90,2032900.00,2025-02-15,paid
+701,Alex,Iphone 16 Pro,2032947.00,2023-03-01,pending
+702,Budi,Samsung Galaxy S24,2032994.00,2023-06-15,failed
+703,Citra,Xiaomi Mi 12,2033041.00,2023-09-10,paid
+704,Dewi,Oppo Find X5,2033088.00,2023-12-05,pending
+705,Eka,Vivo X90,2033135.00,2024-03-01,failed
+706,Fajar,Iphone 16 Pro,2033182.00,2024-06-15,paid
+707,Gina,Samsung Galaxy S24,2033229.00,2024-09-10,pending
+708,Hendra,Xiaomi Mi 12,2033276.00,2024-12-05,failed
+709,Ika,Oppo Find X5,2033323.00,2025-01-15,paid
+710,Joko,Vivo X90,2033370.00,2025-02-15,pending
+711,Kiki,Iphone 16 Pro,2033417.00,2023-03-01,failed
+712,Lia,Samsung Galaxy S24,2033464.00,2023-06-15,paid
+713,Made,Xiaomi Mi 12,2033511.00,2023-09-10,pending
+714,Nina,Oppo Find X5,2033558.00,2023-12-05,failed
+715,Oni,Vivo X90,2033605.00,2024-03-01,paid
+716,Putra,Iphone 16 Pro,2033652.00,2024-06-15,pending
+717,Rini,Samsung Galaxy S24,2033699.00,2024-09-10,failed
+718,Sari,Xiaomi Mi 12,2033746.00,2024-12-05,paid
+719,Teguh,Oppo Find X5,2033793.00,2025-01-15,pending
+720,Wulan,Vivo X90,2033840.00,2025-02-15,failed
+721,Alex,Iphone 16 Pro,2033887.00,2023-03-01,paid
+722,Budi,Samsung Galaxy S24,2033934.00,2023-06-15,pending
+723,Citra,Xiaomi Mi 12,2033981.00,2023-09-10,failed
+724,Dewi,Oppo Find X5,2034028.00,2023-12-05,paid
+725,Eka,Vivo X90,2034075.00,2024-03-01,pending
+726,Fajar,Iphone 16 Pro,2034122.00,2024-06-15,failed
+727,Gina,Samsung Galaxy S24,2034169.00,2024-09-10,paid
+728,Hendra,Xiaomi Mi 12,2034216.00,2024-12-05,pending
+729,Ika,Oppo Find X5,2034263.00,2025-01-15,failed
+730,Joko,Vivo X90,2034310.00,2025-02-15,paid
+731,Kiki,Iphone 16 Pro,2034357.00,2023-03-01,pending
+732,Lia,Samsung Galaxy S24,2034404.00,2023-06-15,failed
+733,Made,Xiaomi Mi 12,2034451.00,2023-09-10,paid
+734,Nina,Oppo Find X5,2034498.00,2023-12-05,pending
+735,Oni,Vivo X90,2034545.00,2024-03-01,failed
+736,Putra,Iphone 16 Pro,2034592.00,2024-06-15,paid
+737,Rini,Samsung Galaxy S24,2034639.00,2024-09-10,pending
+738,Sari,Xiaomi Mi 12,2034686.00,2024-12-05,failed
+739,Teguh,Oppo Find X5,2034733.00,2025-01-15,paid
+740,Wulan,Vivo X90,2034780.00,2025-02-15,pending
+741,Alex,Iphone 16 Pro,2034827.00,2023-03-01,failed
+742,Budi,Samsung Galaxy S24,2034874.00,2023-06-15,paid
+743,Citra,Xiaomi Mi 12,2034921.00,2023-09-10,pending
+744,Dewi,Oppo Find X5,2034968.00,2023-12-05,failed
+745,Eka,Vivo X90,2035015.00,2024-03-01,paid
+746,Fajar,Iphone 16 Pro,2035062.00,2024-06-15,pending
+747,Gina,Samsung Galaxy S24,2035109.00,2024-09-10,failed
+748,Hendra,Xiaomi Mi 12,2035156.00,2024-12-05,paid
+749,Ika,Oppo Find X5,2035203.00,2025-01-15,pending
+750,Joko,Vivo X90,2035250.00,2025-02-15,failed
+751,Kiki,Iphone 16 Pro,2035297.00,2023-03-01,paid
+752,Lia,Samsung Galaxy S24,2035344.00,2023-06-15,pending
+753,Made,Xiaomi Mi 12,2035391.00,2023-09-10,failed
+754,Nina,Oppo Find X5,2035438.00,2023-12-05,paid
+755,Oni,Vivo X90,2035485.00,2024-03-01,pending
+756,Putra,Iphone 16 Pro,2035532.00,2024-06-15,failed
+757,Rini,Samsung Galaxy S24,2035579.00,2024-09-10,paid
+758,Sari,Xiaomi Mi 12,2035626.00,2024-12-05,pending
+759,Teguh,Oppo Find X5,2035673.00,2025-01-15,failed
+760,Wulan,Vivo X90,2035720.00,2025-02-15,paid
+761,Alex,Iphone 16 Pro,2035767.00,2023-03-01,pending
+762,Budi,Samsung Galaxy S24,2035814.00,2023-06-15,failed
+763,Citra,Xiaomi Mi 12,2035861.00,2023-09-10,paid
+764,Dewi,Oppo Find X5,2035908.00,2023-12-05,pending
+765,Eka,Vivo X90,2035955.00,2024-03-01,failed
+766,Fajar,Iphone 16 Pro,2036002.00,2024-06-15,paid
+767,Gina,Samsung Galaxy S24,2036049.00,2024-09-10,pending
+768,Hendra,Xiaomi Mi 12,2036096.00,2024-12-05,failed
+769,Ika,Oppo Find X5,2036143.00,2025-01-15,paid
+770,Joko,Vivo X90,2036190.00,2025-02-15,pending
+771,Kiki,Iphone 16 Pro,2036237.00,2023-03-01,failed
+772,Lia,Samsung Galaxy S24,2036284.00,2023-06-15,paid
+773,Made,Xiaomi Mi 12,2036331.00,2023-09-10,pending
+774,Nina,Oppo Find X5,2036378.00,2023-12-05,failed
+775,Oni,Vivo X90,2036425.00,2024-03-01,paid
+776,Putra,Iphone 16 Pro,2036472.00,2024-06-15,pending
+777,Rini,Samsung Galaxy S24,2036519.00,2024-09-10,failed
+778,Sari,Xiaomi Mi 12,2036566.00,2024-12-05,paid
+779,Teguh,Oppo Find X5,2036613.00,2025-01-15,pending
+780,Wulan,Vivo X90,2036660.00,2025-02-15,failed
+781,Alex,Iphone 16 Pro,2036707.00,2023-03-01,paid
+782,Budi,Samsung Galaxy S24,2036754.00,2023-06-15,pending
+783,Citra,Xiaomi Mi 12,2036801.00,2023-09-10,failed
+784,Dewi,Oppo Find X5,2036848.00,2023-12-05,paid
+785,Eka,Vivo X90,2036895.00,2024-03-01,pending
+786,Fajar,Iphone 16 Pro,2036942.00,2024-06-15,failed
+787,Gina,Samsung Galaxy S24,2036989.00,2024-09-10,paid
+788,Hendra,Xiaomi Mi 12,2037036.00,2024-12-05,pending
+789,Ika,Oppo Find X5,2037083.00,2025-01-15,failed
+790,Joko,Vivo X90,2037130.00,2025-02-15,paid
+791,Kiki,Iphone 16 Pro,2037177.00,2023-03-01,pending
+792,Lia,Samsung Galaxy S24,2037224.00,2023-06-15,failed
+793,Made,Xiaomi Mi 12,2037271.00,2023-09-10,paid
+794,Nina,Oppo Find X5,2037318.00,2023-12-05,pending
+795,Oni,Vivo X90,2037365.00,2024-03-01,failed
+796,Putra,Iphone 16 Pro,2037412.00,2024-06-15,paid
+797,Rini,Samsung Galaxy S24,2037459.00,2024-09-10,pending
+798,Sari,Xiaomi Mi 12,2037506.00,2024-12-05,failed
+799,Teguh,Oppo Find X5,2037553.00,2025-01-15,paid
+800,Wulan,Vivo X90,2037600.00,2025-02-15,pending
+801,Alex,Iphone 16 Pro,2037647.00,2023-03-01,failed
+802,Budi,Samsung Galaxy S24,2037694.00,2023-06-15,paid
+803,Citra,Xiaomi Mi 12,2037741.00,2023-09-10,pending
+804,Dewi,Oppo Find X5,2037788.00,2023-12-05,failed
+805,Eka,Vivo X90,2037835.00,2024-03-01,paid
+806,Fajar,Iphone 16 Pro,2037882.00,2024-06-15,pending
+807,Gina,Samsung Galaxy S24,2037929.00,2024-09-10,failed
+808,Hendra,Xiaomi Mi 12,2037976.00,2024-12-05,paid
+809,Ika,Oppo Find X5,2038023.00,2025-01-15,pending
+810,Joko,Vivo X90,2038070.00,2025-02-15,failed
+811,Kiki,Iphone 16 Pro,2038117.00,2023-03-01,paid
+812,Lia,Samsung Galaxy S24,2038164.00,2023-06-15,pending
+813,Made,Xiaomi Mi 12,2038211.00,2023-09-10,failed
+814,Nina,Oppo Find X5,2038258.00,2023-12-05,paid
+815,Oni,Vivo X90,2038305.00,2024-03-01,pending
+816,Putra,Iphone 16 Pro,2038352.00,2024-06-15,failed
+817,Rini,Samsung Galaxy S24,2038399.00,2024-09-10,paid
+818,Sari,Xiaomi Mi 12,2038446.00,2024-12-05,pending
+819,Teguh,Oppo Find X5,2038493.00,2025-01-15,failed
+820,Wulan,Vivo X90,2038540.00,2025-02-15,paid
+821,Alex,Iphone 16 Pro,2038587.00,2023-03-01,pending
+822,Budi,Samsung Galaxy S24,2038634.00,2023-06-15,failed
+823,Citra,Xiaomi Mi 12,2038681.00,2023-09-10,paid
+824,Dewi,Oppo Find X5,2038728.00,2023-12-05,pending
+825,Eka,Vivo X90,2038775.00,2024-03-01,failed
+826,Fajar,Iphone 16 Pro,2038822.00,2024-06-15,paid
+827,Gina,Samsung Galaxy S24,2038869.00,2024-09-10,pending
+828,Hendra,Xiaomi Mi 12,2038916.00,2024-12-05,failed
+829,Ika,Oppo Find X5,2038963.00,2025-01-15,paid
+830,Joko,Vivo X90,2039010.00,2025-02-15,pending
+831,Kiki,Iphone 16 Pro,2039057.00,2023-03-01,failed
+832,Lia,Samsung Galaxy S24,2039104.00,2023-06-15,paid
+833,Made,Xiaomi Mi 12,2039151.00,2023-09-10,pending
+834,Nina,Oppo Find X5,2039198.00,2023-12-05,failed
+835,Oni,Vivo X90,2039245.00,2024-03-01,paid
+836,Putra,Iphone 16 Pro,2039292.00,2024-06-15,pending
+837,Rini,Samsung Galaxy S24,2039339.00,2024-09-10,failed
+838,Sari,Xiaomi Mi 12,2039386.00,2024-12-05,paid
+839,Teguh,Oppo Find X5,2039433.00,2025-01-15,pending
+840,Wulan,Vivo X90,2039480.00,2025-02-15,failed
+841,Alex,Iphone 16 Pro,2039527.00,2023-03-01,paid
+842,Budi,Samsung Galaxy S24,2039574.00,2023-06-15,pending
+843,Citra,Xiaomi Mi 12,2039621.00,2023-09-10,failed
+844,Dewi,Oppo Find X5,2039668.00,2023-12-05,paid
+845,Eka,Vivo X90,2039715.00,2024-03-01,pending
+846,Fajar,Iphone 16 Pro,2039762.00,2024-06-15,failed
+847,Gina,Samsung Galaxy S24,2039809.00,2024-09-10,paid
+848,Hendra,Xiaomi Mi 12,2039856.00,2024-12-05,pending
+849,Ika,Oppo Find X5,2039903.00,2025-01-15,failed
+850,Joko,Vivo X90,2039950.00,2025-02-15,paid
+851,Kiki,Iphone 16 Pro,2039997.00,2023-03-01,pending
+852,Lia,Samsung Galaxy S24,2040044.00,2023-06-15,failed
+853,Made,Xiaomi Mi 12,2040091.00,2023-09-10,paid
+854,Nina,Oppo Find X5,2040138.00,2023-12-05,pending
+855,Oni,Vivo X90,2040185.00,2024-03-01,failed
+856,Putra,Iphone 16 Pro,2040232.00,2024-06-15,paid
+857,Rini,Samsung Galaxy S24,2040279.00,2024-09-10,pending
+858,Sari,Xiaomi Mi 12,2040326.00,2024-12-05,failed
+859,Teguh,Oppo Find X5,2040373.00,2025-01-15,paid
+860,Wulan,Vivo X90,2040420.00,2025-02-15,pending
+861,Alex,Iphone 16 Pro,2040467.00,2023-03-01,failed
+862,Budi,Samsung Galaxy S24,2040514.00,2023-06-15,paid
+863,Citra,Xiaomi Mi 12,2040561.00,2023-09-10,pending
+864,Dewi,Oppo Find X5,2040608.00,2023-12-05,failed
+865,Eka,Vivo X90,2040655.00,2024-03-01,paid
+866,Fajar,Iphone 16 Pro,2040702.00,2024-06-15,pending
+867,Gina,Samsung Galaxy S24,2040749.00,2024-09-10,failed
+868,Hendra,Xiaomi Mi 12,2040796.00,2024-12-05,paid
+869,Ika,Oppo Find X5,2040843.00,2025-01-15,pending
+870,Joko,Vivo X90,2040890.00,2025-02-15,failed
+871,Kiki,Iphone 16 Pro,2040937.00,2023-03-01,paid
+872,Lia,Samsung Galaxy S24,2040984.00,2023-06-15,pending
+873,Made,Xiaomi Mi 12,2041031.00,2023-09-10,failed
+874,Nina,Oppo Find X5,2041078.00,2023-12-05,paid
+875,Oni,Vivo X90,2041125.00,2024-03-01,pending
+876,Putra,Iphone 16 Pro,2041172.00,2024-06-15,failed
+877,Rini,Samsung Galaxy S24,2041219.00,2024-09-10,paid
+878,Sari,Xiaomi Mi 12,2041266.00,2024-12-05,pending
+879,Teguh,Oppo Find X5,2041313.00,2025-01-15,failed
+880,Wulan,Vivo X90,2041360.00,2025-02-15,paid
+881,Alex,Iphone 16 Pro,2041407.00,2023-03-01,pending
+882,Budi,Samsung Galaxy S24,2041454.00,2023-06-15,failed
+883,Citra,Xiaomi Mi 12,2041501.00,2023-09-10,paid
+884,Dewi,Oppo Find X5,2041548.00,2023-12-05,pending
+885,Eka,Vivo X90,2041595.00,2024-03-01,failed
+886,Fajar,Iphone 16 Pro,2041642.00,2024-06-15,paid
+887,Gina,Samsung Galaxy S24,2041689.00,2024-09-10,pending
+888,Hendra,Xiaomi Mi 12,2041736.00,2024-12-05,failed
+889,Ika,Oppo Find X5,2041783.00,2025-01-15,paid
+890,Joko,Vivo X90,2041830.00,2025-02-15,pending
+891,Kiki,Iphone 16 Pro,2041877.00,2023-03-01,failed
+892,Lia,Samsung Galaxy S24,2041924.00,2023-06-15,paid
+893,Made,Xiaomi Mi 12,2041971.00,2023-09-10,pending
+894,Nina,Oppo Find X5,2042018.00,2023-12-05,failed
+895,Oni,Vivo X90,2042065.00,2024-03-01,paid
+896,Putra,Iphone 16 Pro,2042112.00,2024-06-15,pending
+897,Rini,Samsung Galaxy S24,2042159.00,2024-09-10,failed
+898,Sari,Xiaomi Mi 12,2042206.00,2024-12-05,paid
+899,Teguh,Oppo Find X5,2042253.00,2025-01-15,pending
+900,Wulan,Vivo X90,2042300.00,2025-02-15,failed
+901,Alex,Iphone 16 Pro,2042347.00,2023-03-01,paid
+902,Budi,Samsung Galaxy S24,2042394.00,2023-06-15,pending
+903,Citra,Xiaomi Mi 12,2042441.00,2023-09-10,failed
+904,Dewi,Oppo Find X5,2042488.00,2023-12-05,paid
+905,Eka,Vivo X90,2042535.00,2024-03-01,pending
+906,Fajar,Iphone 16 Pro,2042582.00,2024-06-15,failed
+907,Gina,Samsung Galaxy S24,2042629.00,2024-09-10,paid
+908,Hendra,Xiaomi Mi 12,2042676.00,2024-12-05,pending
+909,Ika,Oppo Find X5,2042723.00,2025-01-15,failed
+910,Joko,Vivo X90,2042770.00,2025-02-15,paid
+911,Kiki,Iphone 16 Pro,2042817.00,2023-03-01,pending
+912,Lia,Samsung Galaxy S24,2042864.00,2023-06-15,failed
+913,Made,Xiaomi Mi 12,2042911.00,2023-09-10,paid
+914,Nina,Oppo Find X5,2042958.00,2023-12-05,pending
+915,Oni,Vivo X90,2043005.00,2024-03-01,failed
+916,Putra,Iphone 16 Pro,2043052.00,2024-06-15,paid
+917,Rini,Samsung Galaxy S24,2043099.00,2024-09-10,pending
+918,Sari,Xiaomi Mi 12,2043146.00,2024-12-05,failed
+919,Teguh,Oppo Find X5,2043193.00,2025-01-15,paid
+920,Wulan,Vivo X90,2043240.00,2025-02-15,pending
+921,Alex,Iphone 16 Pro,2043287.00,2023-03-01,failed
+922,Budi,Samsung Galaxy S24,2043334.00,2023-06-15,paid
+923,Citra,Xiaomi Mi 12,2043381.00,2023-09-10,pending
+924,Dewi,Oppo Find X5,2043428.00,2023-12-05,failed
+925,Eka,Vivo X90,2043475.00,2024-03-01,paid
+926,Fajar,Iphone 16 Pro,2043522.00,2024-06-15,pending
+927,Gina,Samsung Galaxy S24,2043569.00,2024-09-10,failed
+928,Hendra,Xiaomi Mi 12,2043616.00,2024-12-05,paid
+929,Ika,Oppo Find X5,2043663.00,2025-01-15,pending
+930,Joko,Vivo X90,2043710.00,2025-02-15,failed
+931,Kiki,Iphone 16 Pro,2043757.00,2023-03-01,paid
+932,Lia,Samsung Galaxy S24,2043804.00,2023-06-15,pending
+933,Made,Xiaomi Mi 12,2043851.00,2023-09-10,failed
+934,Nina,Oppo Find X5,2043898.00,2023-12-05,paid
+935,Oni,Vivo X90,2043945.00,2024-03-01,pending
+936,Putra,Iphone 16 Pro,2043992.00,2024-06-15,failed
+937,Rini,Samsung Galaxy S24,2044039.00,2024-09-10,paid
+938,Sari,Xiaomi Mi 12,2044086.00,2024-12-05,pending
+939,Teguh,Oppo Find X5,2044133.00,2025-01-15,failed
+940,Wulan,Vivo X90,2044180.00,2025-02-15,paid
+941,Alex,Iphone 16 Pro,2044227.00,2023-03-01,pending
+942,Budi,Samsung Galaxy S24,2044274.00,2023-06-15,failed
+943,Citra,Xiaomi Mi 12,2044321.00,2023-09-10,paid
+944,Dewi,Oppo Find X5,2044368.00,2023-12-05,pending
+945,Eka,Vivo X90,2044415.00,2024-03-01,failed
+946,Fajar,Iphone 16 Pro,2044462.00,2024-06-15,paid
+947,Gina,Samsung Galaxy S24,2044509.00,2024-09-10,pending
+948,Hendra,Xiaomi Mi 12,2044556.00,2024-12-05,failed
+949,Ika,Oppo Find X5,2044603.00,2025-01-15,paid
+950,Joko,Vivo X90,2044650.00,2025-02-15,pending
+951,Kiki,Iphone 16 Pro,2044697.00,2023-03-01,failed
+952,Lia,Samsung Galaxy S24,2044744.00,2023-06-15,paid
+953,Made,Xiaomi Mi 12,2044791.00,2023-09-10,pending
+954,Nina,Oppo Find X5,2044838.00,2023-12-05,failed
+955,Oni,Vivo X90,2044885.00,2024-03-01,paid
+956,Putra,Iphone 16 Pro,2044932.00,2024-06-15,pending
+957,Rini,Samsung Galaxy S24,2044979.00,2024-09-10,failed
+958,Sari,Xiaomi Mi 12,2045026.00,2024-12-05,paid
+959,Teguh,Oppo Find X5,2045073.00,2025-01-15,pending
+960,Wulan,Vivo X90,2045120.00,2025-02-15,failed
+961,Alex,Iphone 16 Pro,2045167.00,2023-03-01,paid
+962,Budi,Samsung Galaxy S24,2045214.00,2023-06-15,pending
+963,Citra,Xiaomi Mi 12,2045261.00,2023-09-10,failed
+964,Dewi,Oppo Find X5,2045308.00,2023-12-05,paid
+965,Eka,Vivo X90,2045355.00,2024-03-01,pending
+966,Fajar,Iphone 16 Pro,2045402.00,2024-06-15,failed
+967,Gina,Samsung Galaxy S24,2045449.00,2024-09-10,paid
+968,Hendra,Xiaomi Mi 12,2045496.00,2024-12-05,pending
+969,Ika,Oppo Find X5,2045543.00,2025-01-15,failed
+970,Joko,Vivo X90,2045590.00,2025-02-15,paid
+971,Kiki,Iphone 16 Pro,2045637.00,2023-03-01,pending
+972,Lia,Samsung Galaxy S24,2045684.00,2023-06-15,failed
+973,Made,Xiaomi Mi 12,2045731.00,2023-09-10,paid
+974,Nina,Oppo Find X5,2045778.00,2023-12-05,pending
+975,Oni,Vivo X90,2045825.00,2024-03-01,failed
+976,Putra,Iphone 16 Pro,2045872.00,2024-06-15,paid
+977,Rini,Samsung Galaxy S24,2045919.00,2024-09-10,pending
+978,Sari,Xiaomi Mi 12,2045966.00,2024-12-05,failed
+979,Teguh,Oppo Find X5,2046013.00,2025-01-15,paid
+980,Wulan,Vivo X90,2046060.00,2025-02-15,pending
+981,Alex,Iphone 16 Pro,2046107.00,2023-03-01,failed
+982,Budi,Samsung Galaxy S24,2046154.00,2023-06-15,paid
+983,Citra,Xiaomi Mi 12,2046201.00,2023-09-10,pending
+984,Dewi,Oppo Find X5,2046248.00,2023-12-05,failed
+985,Eka,Vivo X90,2046295.00,2024-03-01,paid
+986,Fajar,Iphone 16 Pro,2046342.00,2024-06-15,pending
+987,Gina,Samsung Galaxy S24,2046389.00,2024-09-10,failed
+988,Hendra,Xiaomi Mi 12,2046436.00,2024-12-05,paid
+989,Ika,Oppo Find X5,2046483.00,2025-01-15,pending
+990,Joko,Vivo X90,2046530.00,2025-02-15,failed
+991,Kiki,Iphone 16 Pro,2046577.00,2023-03-01,paid
+992,Lia,Samsung Galaxy S24,2046624.00,2023-06-15,pending
+993,Made,Xiaomi Mi 12,2046671.00,2023-09-10,failed
+994,Nina,Oppo Find X5,2046718.00,2023-12-05,paid
+995,Oni,Vivo X90,2046765.00,2024-03-01,pending
+996,Putra,Iphone 16 Pro,2046812.00,2024-06-15,failed
+997,Rini,Samsung Galaxy S24,2046859.00,2024-09-10,paid
+998,Sari,Xiaomi Mi 12,2046906.00,2024-12-05,pending
+999,Teguh,Oppo Find X5,2046953.00,2025-01-15,failed
+1000,Wulan,Vivo X90,2047000.00,2025-02-15,paid
